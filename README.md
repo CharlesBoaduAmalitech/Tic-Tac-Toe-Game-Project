@@ -37,7 +37,7 @@ Your users should be able to:
 - If the restart icon in the top right is clicked, the "Restart game?" modal should show and allow the player to reset the game or cancel and continue to play.
 
 ### Screenshot of Finished project
-![screenshot](https://user-images.githubusercontent.com/116555014/208737622-f88b6ff8-42e6-4caa-b2e8-354eb69bbdff.png)
+![screenshot](https://user-images.githubusercontent.com/116555014/208779547-4ef3c2d6-b567-4061-ba90-f4c993901d76.png)
 
 ### Deployed Link
 
