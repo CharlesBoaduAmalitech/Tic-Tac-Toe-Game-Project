@@ -8,7 +8,7 @@
 - [Screenshot of finished project](#screenshotoffinishedproject)
 - [Project was built using](#projectwasbuiltusing)
    
-<a name="headers"/>
+<a name="Overview"/>
 <a name="expectedbehaviour"/>
 <a name="torunthisproject"/>
 <a name="howtoplaythetictactoegame"/>
