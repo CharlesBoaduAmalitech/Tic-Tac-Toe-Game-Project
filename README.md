@@ -7,7 +7,7 @@
 - [How to play the Tic Tac toe Game](#howtoplaythetictactoegame)
 - [Screenshot of finished project](#screenshotoffinishedproject)
 - [Project was built using](#projectwasbuiltusing)
-...snip...    
+   
 <a name="headers"/>
 <a name="expectedbehaviour"/>
 <a name="torunthisproject"/>
