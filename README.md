@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 - [Overview](#Overview)  
-- [Expectedbehaviour](#expectedbehaviour)
+- [Expected behaviour](#expectedbehaviour)
 - [To run this project](#to run this project)  
 - [Expected behaviour](#expected behaviour)
 - [How to play the Tic Tac toe Game](#how to play the tic tac toe game)
@@ -10,7 +10,7 @@
 - [Project was built using](#project was built using)
 ...snip...    
 <a name="headers"/>
-<a name="expected behaviour"/>
+<a name="expectedbehaviour"/>
 ## Overview
 
 Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
