@@ -1,16 +1,23 @@
 # Tic Tac Toe Game Project
 
 ## Table of Contents  
-- [Overview](#Overview)  
-    - - [Expected behaviour](#expected-behaviour)
-- [To run this project](#to-run-this-project)  
-- [How to play the Tic Tac toe Game](#how-to-play-the-tic-tac-toe-game)
-- [Screenshot of finished project](#screenshot-of-finished-project)
-- [Project was built using](#project-was-built-using)
+- [Overview](#overview)
+    - [Challenge](#challenge)
+    - [Expected behaviour](#expected-behaviour)
+    - [Screenshot of finished project](#screenshot-of-finished-project)
+    - [Deployed Link](#deployed-link)  
+    - [To run this project](#to-run-this-project)  
+    - [How to play the Tic Tac toe Game](#how-to-play-the-tic-tac-toe-game)
+- [My process](#my-process) 
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful Resources](#useful-resources)
 
 
 ## Overview
 
+### Challenge
 Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
 
 Your users should be able to:
@@ -29,8 +36,15 @@ Your users should be able to:
 - After a round, if the player chooses to quit the game, they should be taken back to the new game menu.
 - If the restart icon in the top right is clicked, the "Restart game?" modal should show and allow the player to reset the game or cancel and continue to play.
 
+### Screenshot of Finished project
+![screenshot](https://user-images.githubusercontent.com/116555014/208737622-f88b6ff8-42e6-4caa-b2e8-354eb69bbdff.png)
+
+### Deployed Link
+
 ### To run this project
-- Simply click on the link: to play the Tic Tac Toe Game in your Web browser.
+- Simply click on the deployed link above to play the Tic Tac Toe Game in your Web browser.
+
+
 
 ### How to play the Tic Tac Toe Game
 - First of all, users have to click on the link above to open the game in their web browsers.
@@ -40,15 +54,23 @@ Your users should be able to:
 - The player who gets a row of three Xs or three Os first wins.
 - Also, users have the opportunity to restart the game when it ends.
 
-#### Screenshot of Finished project
-![screenshot](https://user-images.githubusercontent.com/116555014/208737622-f88b6ff8-42e6-4caa-b2e8-354eb69bbdff.png)
 
-### Project was built using
+## My process
+### Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
 - Minimax Algorithm
+
+### What I learned
+
+### Continued Development
+
+### Useful resources
+- [The Minimax algorithm](https://www.freecodecamp.org/news/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37/) - This algorithm was implemented in the development of the Tic Tac Toe Game
+- [Stack Overflow](https://stackoverflow.com/) - Found solutions to certain problems I encountered from this website
+- [W3Schools](https://www.w3schools.com/) - This website served as a reminder for some css and js syntax forgotten
 
 
