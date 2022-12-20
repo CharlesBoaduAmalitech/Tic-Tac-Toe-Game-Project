@@ -7,6 +7,11 @@
 - [How to play the Tic Tac toe Game](#howtoplaythetictactoegame)
 - [Screenshot of finished project](#screenshotoffinishedproject)
 - [Project was built using](#projectwasbuiltusing)
+
+
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
    
 <a name="Overview"/>
 <a name="expectedbehaviour"/>
@@ -14,6 +19,7 @@
 <a name="howtoplaythetictactoegame"/>
 <a name="screenshotoffinishedproject"/>
 <a name="projectwasbuiltusing"/>
+
 ## Overview
 
 Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
