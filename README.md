@@ -1,4 +1,4 @@
-## The challenge
+## Tic Tac Toe Game Project
 
 Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
 
@@ -18,7 +18,18 @@ Your users should be able to:
 - After a round, if the player chooses to quit the game, they should be taken back to the new game menu.
 - If the restart icon in the top right is clicked, the "Restart game?" modal should show and allow the player to reset the game or cancel and continue to play.
 
-#### Screenshot
+### To run this project
+- Simply click on the link: to play the Tic Tac Toe Game in your Web browser.
+
+### How to play the Tic Tac Toe Game
+- First of all, users have to click on the link above to open the game in their web browsers.
+- After opening the game, users have the ability to see the hover states for all interactive elements on the page.
+- To play the game, users have the choice of playing either solo vs the computer or multiplayer against another person.
+- After making a choice, the game starts where each tries to get a row of three Xs or three Os before the opponent does.
+- The player who gets a row of three Xs or three Os first wins.
+- Also, users have the opportunity to restart the game when it ends.
+
+#### Screenshot of Finished project
 ![screenshot](https://user-images.githubusercontent.com/116555014/208737622-f88b6ff8-42e6-4caa-b2e8-354eb69bbdff.png)
 
 
