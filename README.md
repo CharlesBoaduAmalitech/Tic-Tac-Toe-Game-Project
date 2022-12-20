@@ -2,7 +2,7 @@
 
 ## Table of Contents  
 - [Overview](#Overview)  
-- [Expected behaviour](#expected behaviour)
+- [Expectedbehaviour](#expected behaviour)
 - [To run this project](#to run this project)  
 - [Expected behaviour](#expected behaviour)
 - [How to play the Tic Tac toe Game](#how to play the tic tac toe game)
