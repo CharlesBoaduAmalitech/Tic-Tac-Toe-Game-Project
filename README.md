@@ -1,5 +1,12 @@
 ## Tic Tac Toe Game Project
 
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
 
 Your users should be able to:
