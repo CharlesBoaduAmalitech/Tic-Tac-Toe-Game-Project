@@ -32,4 +32,12 @@ Your users should be able to:
 #### Screenshot of Finished project
 ![screenshot](https://user-images.githubusercontent.com/116555014/208737622-f88b6ff8-42e6-4caa-b2e8-354eb69bbdff.png)
 
+### Project was built using
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- Minimax Algorithm
+
 
