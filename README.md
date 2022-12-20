@@ -1,11 +1,11 @@
-## Tic Tac Toe Game Project
+# Tic Tac Toe Game Project
 
-##### Table of Contents  
-[Headers](#headers)  
+## Table of Contents  
+[Headers](#Overview)  
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
-## Headers
+## Overview
 
 Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
 
