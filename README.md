@@ -1,8 +1,13 @@
 # Tic Tac Toe Game Project
 
 ## Table of Contents  
-[Headers](#Overview)  
-[Emphasis](#emphasis)  
+- [Overview](#Overview)  
+- [Expected behaviour](#expected behaviour)
+- [To run this project](#to run this project)  
+- [Expected behaviour](#expected behaviour)
+- [How to play the Tic Tac toe Game](#how to play the tic tac toe game)
+- [Screenshot of finished project](#screenshot of finiished project)
+- [Project was built using](#project was built using)
 ...snip...    
 <a name="headers"/>
 ## Overview
