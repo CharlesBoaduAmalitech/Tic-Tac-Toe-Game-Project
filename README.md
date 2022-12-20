@@ -1,22 +1,19 @@
-# Tic-Tac-Toe-Game-Project
-Requirements for the project
+## The challenge
 
-    - Users should be able to view the optimal layout for the game depending on their device's screen size. 
-    - Users should be able to see the hover state for all interactive elements on the page.
-    - Users should be able to play the game either solo vs the computer or multi player against another person.
-    - Users should be able to save the game state in the browser so that it’s preserved if the player refreshes their browser
-    - Instead of having the computer randomly make their moves, try making it clever so it’s proactive in blocking your moves and trying to win
+Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
 
-To run this project
+Your users should be able to:
 
-    - Simply click on the link: https://charlesboaduamalitech.github.io to view the Tic Tac Toe Game project.
+- View the optimal layout for the game depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Play the game either solo vs the computer or multiplayer against another person
+- Save the game state in the browser so that it’s preserved if the player refreshes their browser
+- Instead of having the computer randomly make their moves, try making it clever so it’s proactive in blocking your moves and trying to win
 
-How to use the project
+### Expected behaviour
 
-    - Basically users can view the optimal layout of the project depending on their device's screen as they click on the link pasted above.
-    - To see the hover states for interactive elements, simply move the mouse over the interactive elements such as the social media handles etc.
-    - Also, to start the game, users have the choice of playing a solo vs the computer game or a multi player vs another person game.
-    - Once the user makes the choice, the game starts where each tries to get a row of three Xs or three Os before the opponent does.
-    - A feature in the game allows the user to save the game state in the browser so that it's preserved if the player refreshes their browser.
-
-Screenshot of finished project
+- You can choose to make the default screen either the new game menu or the solo player game board. Note that we're using the solo player game board for the design screenshot, so if you choose the new game menu it won't match up in the design comparison slider. This isn't a big deal, but is something worth considering.
+- On the new game screen, whichever mark isn't selected for the first player is automatically assigned to the second player when the game is started.
+- The first turn of the first round is always played by whoever is playing as X. For every following round, the first turn alternates between O and X.
+- After a round, if the player chooses to quit the game, they should be taken back to the new game menu.
+- If the restart icon in the top right is clicked, the "Restart game?" modal should show and allow the player to reset the game or cancel and continue to play.
