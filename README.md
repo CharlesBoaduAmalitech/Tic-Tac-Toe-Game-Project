@@ -10,6 +10,7 @@
 - [Project was built using](#project was built using)
 ...snip...    
 <a name="headers"/>
+<a name="expected behaviour"/>
 ## Overview
 
 Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
