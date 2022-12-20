@@ -4,21 +4,10 @@
 - [Overview](#Overview)  
 - [Expected behaviour](#expected-behaviour)
 - [To run this project](#to-run-this-project)  
-- [How to play the Tic Tac toe Game](#howtoplaythetictactoegame)
-- [Screenshot of finished project](#screenshotoffinishedproject)
-- [Project was built using](#projectwasbuiltusing)
+- [How to play the Tic Tac toe Game](#how-to-play-the-tic-tac-toe-game)
+- [Screenshot of finished project](#screenshot-of-finished-project)
+- [Project was built using](#project-was-built-using)
 
-
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-   
-<a name="Overview"/>
-<a name="expectedbehaviour"/>
-<a name="torunthisproject"/>
-<a name="howtoplaythetictactoegame"/>
-<a name="screenshotoffinishedproject"/>
-<a name="projectwasbuiltusing"/>
 
 ## Overview
 
