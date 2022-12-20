@@ -2,8 +2,8 @@
 
 ## Table of Contents  
 - [Overview](#Overview)  
-- [Expected behaviour](#expectedbehaviour)
-- [To run this project](#torunthisproject)  
+- [Expected behaviour](#expected-behaviour)
+- [To run this project](#to-run-this-project)  
 - [How to play the Tic Tac toe Game](#howtoplaythetictactoegame)
 - [Screenshot of finished project](#screenshotoffinishedproject)
 - [Project was built using](#projectwasbuiltusing)
