@@ -3,14 +3,17 @@
 ## Table of Contents  
 - [Overview](#Overview)  
 - [Expected behaviour](#expectedbehaviour)
-- [To run this project](#to run this project)  
-- [Expected behaviour](#expected behaviour)
-- [How to play the Tic Tac toe Game](#how to play the tic tac toe game)
-- [Screenshot of finished project](#screenshot of finiished project)
-- [Project was built using](#project was built using)
+- [To run this project](#torunthisproject)  
+- [How to play the Tic Tac toe Game](#howtoplaythetictactoegame)
+- [Screenshot of finished project](#screenshotoffinishedproject)
+- [Project was built using](#projectwasbuiltusing)
 ...snip...    
 <a name="headers"/>
 <a name="expectedbehaviour"/>
+<a name="torunthisproject"/>
+<a name="howtoplaythetictactoegame"/>
+<a name="screenshotoffinishedproject"/>
+<a name="projectwasbuiltusing"/>
 ## Overview
 
 Your challenge is to build out this Tic Tac Toe game and get it looking as close to the design as possible.
